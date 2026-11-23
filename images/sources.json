@@ -1,0 +1,117 @@
+{
+  "retrieved": "2026-11-16",
+  "apps": {
+    "fluency": {
+      "name": "Fluency live",
+      "bundleId": "com.fluency.fluency-live-app",
+      "appStore": "https://apps.apple.com/sa/app/fluency-live/id6745734835?uo=4",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.fluency.fluency_live_app"
+    },
+    "cita": {
+      "name": "Cita Health",
+      "bundleId": "com.cita.live",
+      "appStore": "https://apps.apple.com/sa/app/cita-health/id6756308958?uo=4",
+      "googlePlay": null
+    },
+    "remotely": {
+      "name": "Remotely Tasks",
+      "bundleId": "com.remotely.remotely-tasks",
+      "appStore": "https://apps.apple.com/sa/app/remotely-tasks/id6670214546?uo=4",
+      "googlePlay": "https://play.google.com/store/apps/details?id=com.remotely.remotely_tasks"
+    }
+  },
+  "screenshots": [
+    {
+      "app": "fluency",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/fluency-live/id6745734835?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/0f/0c/c20f0c4d-612c-14bf-2f0f-d2bf82184629/Untitled-3_0000_Layer_10.jpg/1000x2000bb.jpg",
+      "file": "fluency-app-store-1.jpg"
+    },
+    {
+      "app": "fluency",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/fluency-live/id6745734835?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/c2/36/dbc23665-df48-8825-4f27-914ef5df5643/Untitled-3_0003_Layer_7.jpg/1000x2000bb.jpg",
+      "file": "fluency-app-store-4.jpg"
+    },
+    {
+      "app": "fluency",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/fluency-live/id6745734835?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/55/84/f1558499-7b5f-cc13-9610-d4a270eddb2d/Untitled-3_0005_Layer_5.jpg/1000x2000bb.jpg",
+      "file": "fluency-app-store-6.jpg"
+    },
+    {
+      "app": "fluency",
+      "store": "google-play",
+      "source": "https://play.google.com/store/apps/details?id=com.fluency.fluency_live_app",
+      "url": "https://play-lh.googleusercontent.com/x4h9hdi2pYfAOVuo8lk0J7hTPHkM1djImhU7HlBky_wtCUDNN5QLLFave77NkmyoumEWM9h7at0fY-65MX2xoNc=w1080",
+      "file": "fluency-google-play-1.jpg"
+    },
+    {
+      "app": "fluency",
+      "store": "google-play",
+      "source": "https://play.google.com/store/apps/details?id=com.fluency.fluency_live_app",
+      "url": "https://play-lh.googleusercontent.com/MJfKgYQL357fgfrMOEo7fC-kBlsBVUi8nThK22sdM8F4Jysfhw_RN_U4QDY1BVAk_RLcuCbiwoyWI2PdT4y1TA=w1080",
+      "file": "fluency-google-play-2.jpg"
+    },
+    {
+      "app": "cita",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/cita-health/id6756308958?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/af/32/48af3227-87fe-b234-ce1d-4731a193d275/1-1.png/1000x2000bb.jpg",
+      "file": "cita-app-store-1.jpg"
+    },
+    {
+      "app": "cita",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/cita-health/id6756308958?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/41/4b/e4414ba7-ae9c-3929-ce8f-1cc240f8dfcd/2-1.png/1000x2000bb.jpg",
+      "file": "cita-app-store-2.jpg"
+    },
+    {
+      "app": "cita",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/cita-health/id6756308958?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/06/2a/8c062a86-18a4-960e-86f7-ca99dcb8871d/3-1.png/1000x2000bb.jpg",
+      "file": "cita-app-store-4.jpg"
+    },
+    {
+      "app": "remotely",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/remotely-tasks/id6670214546?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/eb/cc/2aebcc91-a404-cee6-c170-f9ccb628811b/Simulator_Screenshot_-_iPhone_16_-_2025-08-21_at_22.53.37.png/1000x2000bb.jpg",
+      "file": "remotely-app-store-1.jpg"
+    },
+    {
+      "app": "remotely",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/remotely-tasks/id6670214546?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/b9/c6/a7b9c646-d4d1-8e30-2efd-46fc1102c704/Simulator_Screenshot_-_iPhone_16_-_2025-08-21_at_22.53.52_1.png/1000x2000bb.jpg",
+      "file": "remotely-app-store-2.jpg"
+    },
+    {
+      "app": "remotely",
+      "store": "app-store",
+      "source": "https://apps.apple.com/sa/app/remotely-tasks/id6670214546?uo=4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/1b/4a/a31b4ad1-d121-4d5a-b2b7-22af4fb854d4/Simulator_Screenshot_-_iPhone_16_-_2025-08-21_at_23.05.17.png/1000x2000bb.jpg",
+      "file": "remotely-app-store-5.jpg"
+    },
+    {
+      "app": "remotely",
+      "store": "google-play",
+      "source": "https://play.google.com/store/apps/details?id=com.remotely.remotely_tasks",
+      "url": "https://play-lh.googleusercontent.com/rPM83uiBtQrduKcMN9eD42zVSNxe1FP1KhaQgXu5cXXAOoJaCTVD5gfVfiyetNeTDSWh_4n2Sr9UXHGJS29D9w=w1080",
+      "file": "remotely-google-play-1.jpg"
+    },
+    {
+      "app": "remotely",
+      "store": "google-play",
+      "source": "https://play.google.com/store/apps/details?id=com.remotely.remotely_tasks",
+      "url": "https://play-lh.googleusercontent.com/OOhqE9ZRPdemI3EJKWfoekQJA7HDjj3ClcLiWkxPnB-B74Bbq_tNUi7gS3DyCQzGCPREN4GUlAhPh_KhjNY1gbs=w1080",
+      "file": "remotely-google-play-2.jpg"
+    }
+  ],
+  "citaGooglePlayStatus": "No verified public listing found for com.cita.live; App Store screenshots used."
+}
